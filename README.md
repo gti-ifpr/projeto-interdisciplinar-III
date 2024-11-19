@@ -12,20 +12,20 @@ Atividades planejadas para 2024:
 
 - Apresentação do plano de ensino do projeto interdisciplinar
 - Apresentação das equipes, temas e projetos
-Leitura livro referência A Startup Enxuta
-Mesa Redonda A Startup Enxuta
-Workshop de Gerenciamento de Projetos (métricas)
-Desenvolvimento da primeira fase do projeto (sprint 1)
-Avaliação parcial 
-Participação no SCiTec
-Desenvolvimento da segunda fase do projeto (sprint 2)
-Planejamento do WIPEX
-Desenvolvimento de artigo e apresentação final
-Desenvolvimento da fase final do projeto (sprint 3)
-Execução do WIPEX
-Apresentação final do projeto
-Artigo completo
-3 Posts para instagram do seu Projeto 
-Encerramento do projeto (lições aprendidas, artigo completo, anais do evento)
-Avaliação final
+- Leitura livro referência A Startup Enxuta
+- Mesa Redonda A Startup Enxuta
+- Workshop de Gerenciamento de Projetos (métricas)
+- Desenvolvimento da primeira fase do projeto (sprint 1)
+- Avaliação parcial 
+- Participação no SCiTec
+- Desenvolvimento da segunda fase do projeto (sprint 2)
+- Planejamento do WIPEX
+- Desenvolvimento de artigo e apresentação final
+- Desenvolvimento da fase final do projeto (sprint 3)
+- Execução do WIPEX
+- Apresentação final do projeto
+- Artigo completo
+- 3 Posts para instagram do seu Projeto 
+- Encerramento do projeto (lições aprendidas, artigo completo, anais do evento)
+- Avaliação final
 
