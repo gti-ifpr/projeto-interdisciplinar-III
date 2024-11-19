@@ -10,8 +10,8 @@ colaborativa pelos docentes das disciplinas envolvidas: projeto interdisciplinar
 
 Atividades planejadas para 2024:
 
-Apresentação do plano de ensino do projeto interdisciplinar
-Apresentação das equipes, temas e projetos
+- Apresentação do plano de ensino do projeto interdisciplinar
+- Apresentação das equipes, temas e projetos
 Leitura livro referência A Startup Enxuta
 Mesa Redonda A Startup Enxuta
 Workshop de Gerenciamento de Projetos (métricas)
